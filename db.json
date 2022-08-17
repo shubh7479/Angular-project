@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "firstName": "Shubham",
+      "lastName": "Srivastva",
+      "Email": "srivastva9582gmail.com",
+      "Mobile": 7479507758,
+      "Salary": 50000,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Sunil",
+      "lastName": "srivastva",
+      "Email": "amit@gmail.com",
+      "Mobile": 70004896330,
+      "Salary": 300000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name ": "Shubham SRIVASTVA",
+    "address ": "SONAR TOLI, SONAR TOLI NEAR MAHJID",
+    "email ": "SHUBHAMSRIVASTVA03@GMAIL.COM",
+    "phoneno ": 7479507758,
+    "file ": ""
+  }
+}
